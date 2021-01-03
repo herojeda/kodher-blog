@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kodher-blog"
+    }
+  },
+  "defaultProject": "kodher-blog",
+  "cli": {
+    "analytics": "76c3f444-3668-4f78-a0a2-f2fa93633391"
+  }
 }
